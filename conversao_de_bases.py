@@ -28,3 +28,5 @@ if b1 == 10:
         cont = num / 8
         result = (int(cont) * 2) + num
         print(result)
+
+print('ok')
